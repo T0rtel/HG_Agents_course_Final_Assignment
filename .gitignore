@@ -1,0 +1,7 @@
+.env
+__pycache__/
+.pytest_cache/
+attachments/
+answers.json
+.cache/
+provider_state.json
